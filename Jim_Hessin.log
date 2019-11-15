@@ -1,14 +1,15 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Arch Linux) (preloaded format=pdflatex 2019.11.10)  10 NOV 2019 13:23
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019) (preloaded format=pdflatex 2019.11.12)  13 NOV 2019 20:17
 entering extended mode
  restricted \write18 enabled.
+ file:line:error style messages enabled.
  %&-line parsing enabled.
 **Jim_Hessin.tex
 (./Jim_Hessin.tex
-LaTeX2e <2018-12-01>
-(/usr/share/texmf-dist/tex/latex/base/article.cls
-Document Class: article 2018/09/03 v1.4i Standard LaTeX document class
-(/usr/share/texmf-dist/tex/latex/base/size11.clo
-File: size11.clo 2018/09/03 v1.4i Standard LaTeX file (size option)
+LaTeX2e <2019-10-01> patch level 2
+(/usr/local/texlive/2019/texmf-dist/tex/latex/base/article.cls
+Document Class: article 2019/10/25 v1.4k Standard LaTeX document class
+(/usr/local/texlive/2019/texmf-dist/tex/latex/base/size11.clo
+File: size11.clo 2019/10/25 v1.4k Standard LaTeX file (size option)
 )
 \c@part=\count80
 \c@section=\count81
@@ -23,16 +24,13 @@ File: size11.clo 2018/09/03 v1.4i Standard LaTeX file (size option)
 \bibindent=\dimen102
 )
 \outerbordwidth=\skip43
-
-(/usr/share/texmf-dist/tex/latex/xcolor/xcolor.sty
+ (/usr/local/texlive/2019/texmf-dist/tex/latex/xcolor/xcolor.sty
 Package: xcolor 2016/05/11 v2.12 LaTeX color extensions (UK)
-
-(/usr/share/texmf-dist/tex/latex/graphics-cfg/color.cfg
+ (/usr/local/texlive/2019/texmf-dist/tex/latex/graphics-cfg/color.cfg
 File: color.cfg 2016/01/02 v1.6 sample color configuration
 )
 Package xcolor Info: Driver file: pdftex.def on input line 225.
-
-(/usr/share/texmf-dist/tex/latex/graphics-def/pdftex.def
+ (/usr/local/texlive/2019/texmf-dist/tex/latex/graphics-def/pdftex.def
 File: pdftex.def 2018/01/08 v1.0l Graphics/color driver for pdftex
 )
 Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1348.
@@ -44,25 +42,52 @@ Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1368.
 Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1369.
 Package xcolor Info: Model `Gray' substituted by `gray' on input line 1370.
 Package xcolor Info: Model `wave' substituted by `hsb' on input line 1371.
-
-(/usr/share/texmf-dist/tex/latex/xcolor/svgnam.def
+ (/usr/local/texlive/2019/texmf-dist/tex/latex/xcolor/svgnam.def
 File: svgnam.def 2016/05/11 v2.12 Predefined colors according to SVG 1.1 (UK)
-))
-
-! LaTeX Error: File `framed.sty' not found.
-
-Type X to quit or <RETURN> to proceed,
-or enter new name. (Default extension: sty)
-
-Enter file name: 
-
-! LaTeX Error: File `tocloft.sty' not found.
-
-Type X to quit or <RETURN> to proceed,
-or enter new name. (Default extension: sty)
-
-Enter file name: 
-No file Jim_Hessin.aux.
+)) (/usr/local/texlive/2019/texmf-dist/tex/latex/framed/framed.sty
+Package: framed 2011/10/22 v 0.96: framed or shaded text with page breaks
+\OuterFrameSep=\skip44
+\fb@frw=\dimen103
+\fb@frh=\dimen104
+\FrameRule=\dimen105
+\FrameSep=\dimen106
+) (/usr/local/texlive/2019/texmf-dist/tex/latex/tocloft/tocloft.sty
+Package: tocloft 2017/08/31 v2.3i parameterised ToC, etc., typesetting
+Package tocloft Info: The document has section divisions on input line 51.
+\cftparskip=\skip45
+\cftbeforetoctitleskip=\skip46
+\cftaftertoctitleskip=\skip47
+\cftbeforepartskip=\skip48
+\cftpartnumwidth=\skip49
+\cftpartindent=\skip50
+\cftbeforesecskip=\skip51
+\cftsecindent=\skip52
+\cftsecnumwidth=\skip53
+\cftbeforesubsecskip=\skip54
+\cftsubsecindent=\skip55
+\cftsubsecnumwidth=\skip56
+\cftbeforesubsubsecskip=\skip57
+\cftsubsubsecindent=\skip58
+\cftsubsubsecnumwidth=\skip59
+\cftbeforeparaskip=\skip60
+\cftparaindent=\skip61
+\cftparanumwidth=\skip62
+\cftbeforesubparaskip=\skip63
+\cftsubparaindent=\skip64
+\cftsubparanumwidth=\skip65
+\cftbeforeloftitleskip=\skip66
+\cftafterloftitleskip=\skip67
+\cftbeforefigskip=\skip68
+\cftfigindent=\skip69
+\cftfignumwidth=\skip70
+\c@lofdepth=\count88
+\c@lotdepth=\count89
+\cftbeforelottitleskip=\skip71
+\cftafterlottitleskip=\skip72
+\cftbeforetabskip=\skip73
+\cfttabindent=\skip74
+\cfttabnumwidth=\skip75
+) (./Jim_Hessin.aux)
 \openout1 = `Jim_Hessin.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 61.
@@ -77,18 +102,18 @@ LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 61.
 LaTeX Font Info:    ... okay on input line 61.
 LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 61.
 LaTeX Font Info:    ... okay on input line 61.
-(/usr/share/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+ (/usr/local/texlive/2019/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count88
-\scratchdimen=\dimen103
+\scratchcounter=\count90
+\scratchdimen=\dimen107
 \scratchbox=\box27
-\nofMPsegments=\count89
-\nofMParguments=\count90
+\nofMPsegments=\count91
+\nofMParguments=\count92
 \everyMPshowfont=\toks14
-\MPscratchCnt=\count91
-\MPscratchDim=\dimen104
-\MPnumerator=\count92
-\makeMPintoPDFobject=\count93
+\MPscratchCnt=\count93
+\MPscratchDim=\dimen108
+\MPnumerator=\count94
+\makeMPintoPDFobject=\count95
 \everyMPtoPDFconversion=\toks15
 )
 LaTeX Font Info:    External font `cmex10' loaded for size
@@ -97,215 +122,339 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <8> on input line 63.
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <6> on input line 63.
-
-! Undefined control sequence.
-<argument> \FrameSep 
-                     
-l.72 \resheading{Education}
-                           
-? 
-! Missing number, treated as zero.
-<to be read again> 
-                   \relax 
-l.72 \resheading{Education}
-                           
-? 
-! Illegal unit of measure (pt inserted).
-<to be read again> 
-                   \relax 
-l.72 \resheading{Education}
-                           
-? 
-
-! LaTeX Error: Environment shaded undefined.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.72 \resheading{Education}
-                           
-? 
-
-! LaTeX Error: \begin{document} ended by \end{shaded}.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.72 \resheading{Education}
-                           
-? 
-
-Underfull \hbox (badness 10000) in paragraph at lines 72--72
-
- []
-
-LaTeX Font Info:    Try loading font information for OMS+cmr on input line 76.
-(/usr/share/texmf-dist/tex/latex/base/omscmr.fd
+LaTeX Font Info:    Trying to load font information for OMS+cmr on input line 76.
+ (/usr/local/texlive/2019/texmf-dist/tex/latex/base/omscmr.fd
 File: omscmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
 )
 LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10.95> not available
 (Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 76.
 
-! Undefined control sequence.
-<argument> l@{\cftdotfill 
-                          {\cftsecdotsep }\extracolsep {\fill }}r
-l.76 ... MSc, PhD, or something else}{2009 - 2013}
+./Jim_Hessin.tex:76: Undefined control sequence.
+\@tempa ->\catcode `\<
+                      12\relax \catcode `\>12\relax \catcode `\=12\relax 
+l.76 ...C++, C\#, Java, Javascript, Swift, Python}
                                                   
-? 
-! Undefined control sequence.
-<argument> l@{\cftdotfill {\cftsecdotsep 
-                                         }\extracolsep {\fill }}r
-l.76 ... MSc, PhD, or something else}{2009 - 2013}
-                                                  
-? 
-! Undefined control sequence.
-<argument> l@{\cftdotfill 
-                          {\cftsecdotsep }\extracolsep {\fill }}r
-l.83 ... MSc, PhD, or something else}{2004 - 2009}
-                                                  
-? 
-! Undefined control sequence.
-<argument> l@{\cftdotfill {\cftsecdotsep 
-                                         }\extracolsep {\fill }}r
-l.83 ... MSc, PhD, or something else}{2004 - 2009}
-                                                  
-? 
-! Interruption.
-\extracolsep #1->\tabskip #1
-                            \relax 
-l.83 ... MSc, PhD, or something else}{2004 - 2009}
-                                                  
-? 
-! Undefined control sequence.
-<argument> \FrameSep 
-                     
-l.89 \resheading{Some important section}
-                                        
-? 
-! Missing number, treated as zero.
-<to be read again> 
-                   \relax 
-l.89 \resheading{Some important section}
-                                        
-? 
-! Illegal unit of measure (pt inserted).
-<to be read again> 
-                   \relax 
-l.89 \resheading{Some important section}
-                                        
-? 
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
 
-! LaTeX Error: Environment shaded undefined.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
+./Jim_Hessin.tex:76: Undefined control sequence.
+\cftdotfill #1->\def \@tempa {#1}\def \@tempb 
+                                              {\cftnodots }\ifx \@tempa \@te...
+l.76 ...C++, C\#, Java, Javascript, Swift, Python}
                                                   
-l.89 \resheading{Some important section}
-                                        
-? 
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
 
-! LaTeX Error: \begin{document} ended by \end{shaded}.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
+./Jim_Hessin.tex:76: Missing control sequence inserted.
+<inserted text> 
+                \inaccessible 
+l.76 ...C++, C\#, Java, Javascript, Swift, Python}
                                                   
-l.89 \resheading{Some important section}
-                                        
-? 
+Please don't say `\def cs{...}', say `\def\cs{...}'.
+I've inserted an inaccessible control sequence so that your
+definition will be completed without mixing me up too badly.
+You can recover graciously from this error, if you're
+careful; see exercise 27.2 in The TeXbook.
 
-Underfull \hbox (badness 10000) in paragraph at lines 89--89
+./Jim_Hessin.tex:76: Missing control sequence inserted.
+<inserted text> 
+                \inaccessible 
+l.76 ...C++, C\#, Java, Javascript, Swift, Python}
+                                                  
+Please don't say `\def cs{...}', say `\def\cs{...}'.
+I've inserted an inaccessible control sequence so that your
+definition will be completed without mixing me up too badly.
+You can recover graciously from this error, if you're
+careful; see exercise 27.2 in The TeXbook.
 
+./Jim_Hessin.tex:79: Undefined control sequence.
+\@tempa ->\catcode `\<
+                      12\relax \catcode `\>12\relax \catcode `\=12\relax 
+l.79 ...Polymorphism, Data Oriented Programming}{}
+                                                  
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./Jim_Hessin.tex:79: Undefined control sequence.
+\cftdotfill #1->\def \@tempa {#1}\def \@tempb 
+                                              {\cftnodots }\ifx \@tempa \@te...
+l.79 ...Polymorphism, Data Oriented Programming}{}
+                                                  
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./Jim_Hessin.tex:79: Missing control sequence inserted.
+<inserted text> 
+                \inaccessible 
+l.79 ...Polymorphism, Data Oriented Programming}{}
+                                                  
+Please don't say `\def cs{...}', say `\def\cs{...}'.
+I've inserted an inaccessible control sequence so that your
+definition will be completed without mixing me up too badly.
+You can recover graciously from this error, if you're
+careful; see exercise 27.2 in The TeXbook.
+
+./Jim_Hessin.tex:79: Missing control sequence inserted.
+<inserted text> 
+                \inaccessible 
+l.79 ...Polymorphism, Data Oriented Programming}{}
+                                                  
+Please don't say `\def cs{...}', say `\def\cs{...}'.
+I've inserted an inaccessible control sequence so that your
+definition will be completed without mixing me up too badly.
+You can recover graciously from this error, if you're
+careful; see exercise 27.2 in The TeXbook.
+
+
+Overfull \hbox (44.0595pt too wide) in alignment at lines 79--79
+[] []
  []
 
-! Undefined control sequence.
-<argument> \FrameSep 
-                     
-l.103 \resheading{Awards, Grants \& Honours}
-                                            
-? 
-! Missing number, treated as zero.
-<to be read again> 
-                   \relax 
-l.103 \resheading{Awards, Grants \& Honours}
-                                            
-? 
-! Illegal unit of measure (pt inserted).
-<to be read again> 
-                   \relax 
-l.103 \resheading{Awards, Grants \& Honours}
-                                            
-? 
-
-! LaTeX Error: Environment shaded undefined.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
+./Jim_Hessin.tex:81: Undefined control sequence.
+\@tempa ->\catcode `\<
+                      12\relax \catcode `\>12\relax \catcode `\=12\relax 
+l.81 ...X}{Windows (XP, 7, 8.1, 10), Android, iOS}
                                                   
-l.103 \resheading{Awards, Grants \& Honours}
-                                            
-? 
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
 
-! LaTeX Error: \begin{document} ended by \end{shaded}.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
+./Jim_Hessin.tex:81: Undefined control sequence.
+\cftdotfill #1->\def \@tempa {#1}\def \@tempb 
+                                              {\cftnodots }\ifx \@tempa \@te...
+l.81 ...X}{Windows (XP, 7, 8.1, 10), Android, iOS}
                                                   
-l.103 \resheading{Awards, Grants \& Honours}
-                                            
-? 
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
 
-Underfull \hbox (badness 10000) in paragraph at lines 103--103
+./Jim_Hessin.tex:81: Missing control sequence inserted.
+<inserted text> 
+                \inaccessible 
+l.81 ...X}{Windows (XP, 7, 8.1, 10), Android, iOS}
+                                                  
+Please don't say `\def cs{...}', say `\def\cs{...}'.
+I've inserted an inaccessible control sequence so that your
+definition will be completed without mixing me up too badly.
+You can recover graciously from this error, if you're
+careful; see exercise 27.2 in The TeXbook.
 
- []
+./Jim_Hessin.tex:81: Missing control sequence inserted.
+<inserted text> 
+                \inaccessible 
+l.81 ...X}{Windows (XP, 7, 8.1, 10), Android, iOS}
+                                                  
+Please don't say `\def cs{...}', say `\def\cs{...}'.
+I've inserted an inaccessible control sequence so that your
+definition will be completed without mixing me up too badly.
+You can recover graciously from this error, if you're
+careful; see exercise 27.2 in The TeXbook.
 
-! Undefined control sequence.
-\@sharp ->Nobel Prize \cftdotfill 
-                                  {\cftdotsep } 2013
-l.107 ...Nobel Prize \cftdotfill{\cftdotsep} 2013}
-                                                  \\
-? 
-! Undefined control sequence.
-\@sharp ->Nobel Prize \cftdotfill {\cftdotsep 
-                                              } 2013
-l.107 ...Nobel Prize \cftdotfill{\cftdotsep} 2013}
-                                                  \\
-? 
-! Undefined control sequence.
-\@sharp ->Big grant \cftdotfill 
-                                {\cftdotsep } 2010-2013
-l.108 ... grant \cftdotfill{\cftdotsep} 2010-2013}
-                                                  \\
-? 
-! Undefined control sequence.
-\@sharp ->Big grant \cftdotfill {\cftdotsep 
-                                            } 2010-2013
-l.108 ... grant \cftdotfill{\cftdotsep} 2010-2013}
-                                                  \\
-? 
+./Jim_Hessin.tex:83: Undefined control sequence.
+\@tempa ->\catcode `\<
+                      12\relax \catcode `\>12\relax \catcode `\=12\relax 
+l.83 ...ng{Database}{}{SQLite, Access, Firebase}{}
+                                                  
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./Jim_Hessin.tex:83: Undefined control sequence.
+\cftdotfill #1->\def \@tempa {#1}\def \@tempb 
+                                              {\cftnodots }\ifx \@tempa \@te...
+l.83 ...ng{Database}{}{SQLite, Access, Firebase}{}
+                                                  
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./Jim_Hessin.tex:83: Missing control sequence inserted.
+<inserted text> 
+                \inaccessible 
+l.83 ...ng{Database}{}{SQLite, Access, Firebase}{}
+                                                  
+Please don't say `\def cs{...}', say `\def\cs{...}'.
+I've inserted an inaccessible control sequence so that your
+definition will be completed without mixing me up too badly.
+You can recover graciously from this error, if you're
+careful; see exercise 27.2 in The TeXbook.
+
+./Jim_Hessin.tex:83: Missing control sequence inserted.
+<inserted text> 
+                \inaccessible 
+l.83 ...ng{Database}{}{SQLite, Access, Firebase}{}
+                                                  
+Please don't say `\def cs{...}', say `\def\cs{...}'.
+I've inserted an inaccessible control sequence so that your
+definition will be completed without mixing me up too badly.
+You can recover graciously from this error, if you're
+careful; see exercise 27.2 in The TeXbook.
+
+./Jim_Hessin.tex:86: Undefined control sequence.
+\@tempa ->\catcode `\<
+                      12\relax \catcode `\>12\relax \catcode `\=12\relax 
+l.86 ...al Studio, Eclipse, Android Studio, Xcode}
+                                                  
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./Jim_Hessin.tex:86: Undefined control sequence.
+\cftdotfill #1->\def \@tempa {#1}\def \@tempb 
+                                              {\cftnodots }\ifx \@tempa \@te...
+l.86 ...al Studio, Eclipse, Android Studio, Xcode}
+                                                  
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./Jim_Hessin.tex:86: Missing control sequence inserted.
+<inserted text> 
+                \inaccessible 
+l.86 ...al Studio, Eclipse, Android Studio, Xcode}
+                                                  
+Please don't say `\def cs{...}', say `\def\cs{...}'.
+I've inserted an inaccessible control sequence so that your
+definition will be completed without mixing me up too badly.
+You can recover graciously from this error, if you're
+careful; see exercise 27.2 in The TeXbook.
+
+./Jim_Hessin.tex:86: Missing control sequence inserted.
+<inserted text> 
+                \inaccessible 
+l.86 ...al Studio, Eclipse, Android Studio, Xcode}
+                                                  
+Please don't say `\def cs{...}', say `\def\cs{...}'.
+I've inserted an inaccessible control sequence so that your
+definition will be completed without mixing me up too badly.
+You can recover graciously from this error, if you're
+careful; see exercise 27.2 in The TeXbook.
+
+./Jim_Hessin.tex:96: Undefined control sequence.
+\@tempa ->\catcode `\<
+                      12\relax \catcode `\>12\relax \catcode `\=12\relax 
+l.96 ...line}{BS, Game Software Development}{2016}
+                                                  
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./Jim_Hessin.tex:96: Undefined control sequence.
+\cftdotfill #1->\def \@tempa {#1}\def \@tempb 
+                                              {\cftnodots }\ifx \@tempa \@te...
+l.96 ...line}{BS, Game Software Development}{2016}
+                                                  
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./Jim_Hessin.tex:96: Missing control sequence inserted.
+<inserted text> 
+                \inaccessible 
+l.96 ...line}{BS, Game Software Development}{2016}
+                                                  
+Please don't say `\def cs{...}', say `\def\cs{...}'.
+I've inserted an inaccessible control sequence so that your
+definition will be completed without mixing me up too badly.
+You can recover graciously from this error, if you're
+careful; see exercise 27.2 in The TeXbook.
+
+./Jim_Hessin.tex:96: Missing control sequence inserted.
+<inserted text> 
+                \inaccessible 
+l.96 ...line}{BS, Game Software Development}{2016}
+                                                  
+Please don't say `\def cs{...}', say `\def\cs{...}'.
+I've inserted an inaccessible control sequence so that your
+definition will be completed without mixing me up too badly.
+You can recover graciously from this error, if you're
+careful; see exercise 27.2 in The TeXbook.
+
+./Jim_Hessin.tex:121: Undefined control sequence.
+\@tempa ->\catcode `\<
+                      12\relax \catcode `\>12\relax \catcode `\=12\relax 
+l.121 ...ob}{Mullen, NE}{Location}{2015 - Present}
+                                                  
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./Jim_Hessin.tex:121: Undefined control sequence.
+\cftdotfill #1->\def \@tempa {#1}\def \@tempb 
+                                              {\cftnodots }\ifx \@tempa \@te...
+l.121 ...ob}{Mullen, NE}{Location}{2015 - Present}
+                                                  
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./Jim_Hessin.tex:121: Missing control sequence inserted.
+<inserted text> 
+                \inaccessible 
+l.121 ...ob}{Mullen, NE}{Location}{2015 - Present}
+                                                  
+Please don't say `\def cs{...}', say `\def\cs{...}'.
+I've inserted an inaccessible control sequence so that your
+definition will be completed without mixing me up too badly.
+You can recover graciously from this error, if you're
+careful; see exercise 27.2 in The TeXbook.
+
+./Jim_Hessin.tex:121: Missing control sequence inserted.
+<inserted text> 
+                \inaccessible 
+l.121 ...ob}{Mullen, NE}{Location}{2015 - Present}
+                                                  
+Please don't say `\def cs{...}', say `\def\cs{...}'.
+I've inserted an inaccessible control sequence so that your
+definition will be completed without mixing me up too badly.
+You can recover graciously from this error, if you're
+careful; see exercise 27.2 in The TeXbook.
+
 [1
 
-{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}] (./Jim_Hessin.aux) ) 
+{/usr/local/texlive/2019/texmf-var/fonts/map/pdftex/updmap/pdftex.map}] (./Jim_Hessin.aux) ) 
 Here is how much of TeX's memory you used:
- 1348 strings out of 492623
- 16703 string characters out of 6135668
- 94567 words of memory out of 5000000
- 5313 multiletter control sequences out of 15000+600000
+ 1671 strings out of 492164
+ 21663 string characters out of 6125317
+ 102043 words of memory out of 5000000
+ 6081 multiletter control sequences out of 15000+600000
  7928 words of font info for 28 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 26i,9n,35p,312b,197s stack positions out of 5000i,500n,10000p,200000b,80000s
-</usr/
-share/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></usr/share/texmf-di
-st/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/share/texmf-dist/fonts/type1
-/public/amsfonts/cm/cmr10.pfb></usr/share/texmf-dist/fonts/type1/public/amsfont
-s/cm/cmssbx10.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.
-pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb>
-Output written on Jim_Hessin.pdf (1 page, 70123 bytes).
+ 28i,10n,39p,312b,197s stack positions out of 5000i,500n,10000p,200000b,80000s
+</usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmssbx10.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb>
+Output written on Jim_Hessin.pdf (1 page, 85182 bytes).
 PDF statistics:
  32 PDF objects out of 1000 (max. 8388607)
  22 compressed objects within 1 object stream
